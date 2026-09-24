@@ -1,4 +1,4 @@
-# mittendrin.in – conversational entry form (prototype)
+# mittendrin.in – conversational entry form (prototype made with Claude Code at Datendialog Leipzig)
 
 A local prototype that replaces the long entry form for mittendrin.in
 (Brandenburg) with free text. Paste any blurb, complete or not — one LLM
