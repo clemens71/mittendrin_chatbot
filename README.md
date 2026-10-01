@@ -16,6 +16,11 @@ Two separate processes, two folders:
   Port 3000. Holds `ANTHROPIC_API_KEY`.
 - **Frontend** — `frontend/` (Vite + React). Port 5173. Talks to the
   backend cross-origin over plain `fetch()` + CORS.
+  
+## Screenshot Example
+<img width="590" height="431" alt="Screenshot 2026-09-12 162743" src="https://github.com/user-attachments/assets/70ff4944-a47a-40ff-bd21-1fdc42e7316f" />
+
+
 
 ## Setup
 
